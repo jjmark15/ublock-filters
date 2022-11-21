@@ -1,2 +1,17 @@
 ! 2022-11-20 https://www.theguardian.com
 www.theguardian.com##.remote-banner.site-message--banner
+
+! 2022-11-20 https://www.polygon.com
+www.polygon.com##.m-privacy-consent__inner
+
+! 2022-03-16 https://www.theverge.com
+www.theverge.com##.m-privacy-consent
+
+! 2022-03-21 https://www.polygon.com
+www.polygon.com##.m-privacy-consent
+
+! 2022-05-16 https://www.polygon.com
+www.polygon.com##.c-toaster-stuck.c-toaster-active.c-toaster
+
+! 2022-10-05 https://www.theverge.com
+www.theverge.com##.lg\:pb-40.lg\:pt-36.bg-franklin.text-black.w-full.pb-36.pt-28.px-16.z-30.bottom-0.fixed.duet--cta--cookie-banner
